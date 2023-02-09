@@ -9,3 +9,4 @@
 8-Sets the permission to Other users only having all the permissions
 9-Set the mode of the file to -rwxr-x-wx
 10-Set the mode of one file to that of another
+11-Adds execute permission to all subdirectories of current directory for u+g+a
