@@ -8,3 +8,4 @@
 7-Adds execution permission to the owner, the group owner and the other users
 8-Sets the permission to Other users only having all the permissions
 9-Set the mode of the file to -rwxr-x-wx
+10-Set the mode of one file to that of another
