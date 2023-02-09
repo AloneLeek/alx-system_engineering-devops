@@ -13,3 +13,4 @@
 12-Creates a dir with permissions 751 in working dir
 13-Changes group owner of certain file
 14-Changes owner and group owner of all files and directories in working directory
+15-Changes owner and group owner when file is a symbolic link
