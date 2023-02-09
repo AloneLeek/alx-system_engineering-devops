@@ -5,3 +5,4 @@
 4-Create empty file
 5-Adds execute permission to owner
 6-Adds execute permission to the owner and the group owner, and read permission to other users
+7-Adds execution permission to the owner, the group owner and the other users
