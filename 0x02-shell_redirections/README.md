@@ -16,3 +16,4 @@
 14-Display lines containing the pattern from the file. 
 15-Display number of lines that contain a pattern in a file
 16-Display number of lines that contain a pattern in a file.
+17-Display all lines in file that do not contain a certain pattern
