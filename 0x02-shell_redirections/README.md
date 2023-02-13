@@ -13,3 +13,4 @@
 11-Count number of directories and sub-directories in current directory
 12-Display the 10 newest files in cwd
 13-Takes a list of words as input and prints words that appear exactly once (input/output: one line, one word ; words should be sorted)
+14-Display lines containing the pattern from the file. 
