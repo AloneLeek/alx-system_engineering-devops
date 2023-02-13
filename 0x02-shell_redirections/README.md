@@ -20,3 +20,4 @@
 18-Display all lines of sile starting with a letter; include capital letters as well
 19-Replace all characters A and c from input Z and e respectively. 
 20-Script that removes all letters c and C from input
+21-Reverse input
