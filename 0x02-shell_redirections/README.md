@@ -7,3 +7,4 @@
 5-Display the first 10 lines of a file
 6-Display the third line of a file
 7-Create a file containing text
+8-Save current state of directory
