@@ -12,3 +12,4 @@
 10-Deletes all regular files (not dirs) with a .js extension that are present in the current dir and all its subfolders
 11-Count number of directories and sub-directories in current directory
 12-Display the 10 newest files in cwd
+13-Takes a list of words as input and prints words that appear exactly once (input/output: one line, one word ; words should be sorted)
