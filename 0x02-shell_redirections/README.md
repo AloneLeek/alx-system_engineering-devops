@@ -21,3 +21,4 @@
 19-Replace all characters A and c from input Z and e respectively. 
 20-Script that removes all letters c and C from input
 21-Reverse input
+22-Display all users and their home directories, sorted by users.
