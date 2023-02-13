@@ -18,3 +18,4 @@
 16-Display number of lines that contain a pattern in a file.
 17-Display all lines in file that do not contain a certain pattern
 18-Display all lines of sile starting with a letter; include capital letters as well
+19-Replace all characters A and c from input Z and e respectively. 
