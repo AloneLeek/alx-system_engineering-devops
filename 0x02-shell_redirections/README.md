@@ -9,3 +9,4 @@
 7-Create a file containing text
 8-Save current state of directory
 9-Duplicate latst line
+10-Deletes all regular files (not dirs) with a .js extension that are present in the current dir and all its subfolders
