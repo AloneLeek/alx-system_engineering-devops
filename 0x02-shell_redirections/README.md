@@ -8,3 +8,4 @@
 6-Display the third line of a file
 7-Create a file containing text
 8-Save current state of directory
+9-Duplicate latst line
