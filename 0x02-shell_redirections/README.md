@@ -15,3 +15,4 @@
 13-Takes a list of words as input and prints words that appear exactly once (input/output: one line, one word ; words should be sorted)
 14-Display lines containing the pattern from the file. 
 15-Display number of lines that contain a pattern in a file
+16-Display number of lines that contain a pattern in a file.
