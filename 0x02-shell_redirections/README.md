@@ -11,3 +11,4 @@
 9-Duplicate latst line
 10-Deletes all regular files (not dirs) with a .js extension that are present in the current dir and all its subfolders
 11-Count number of directories and sub-directories in current directory
+12-Display the 10 newest files in cwd
