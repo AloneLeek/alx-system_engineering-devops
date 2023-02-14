@@ -3,3 +3,4 @@
 1-Print "hello user" where user is current Linux user.
 2-Add /action to the PATH. /action should be the last directory the shell looks into when looking for a program.
 3-Add /action to the PATH. /action should be the last directory the shell looks into when looking for a program.
+4-Create a script that lists environment variables.
